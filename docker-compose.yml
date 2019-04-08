@@ -1,5 +1,5 @@
 # Basic example of docker compose
-version: "1"
+version: "2"
 services:
   mongo:
     container_name: mongo
